@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Rigo Valadez, I'm a Software Engineer from Mexico 🇲🇽.
+I finished my Master's Degree from the University of Essex 🇬🇧 in Artificial Intelligence 🧠.
+I'm about to finish my Bachelor's Degree from Tecnológico de Monterrey 🇲🇽 in Computer Science and Technology 💻.
+
 <!--
 **rigovm101/rigovm101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
