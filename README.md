@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-My name is Rigo Valadez, I'm a Software Engineer from Mexico 🇲🇽.
+My name is **Rigo Valadez**, I'm a Software Engineer from Mexico 🇲🇽.
+
 I finished my Master's Degree from the University of Essex 🇬🇧 in Artificial Intelligence 🧠.
+
 I'm about to finish my Bachelor's Degree from Tecnológico de Monterrey 🇲🇽 in Computer Science and Technology 💻.
 
 <!--
