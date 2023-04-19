@@ -6,6 +6,16 @@ I finished my Master's Degree from the University of Essex 🇬🇧 in Artificia
 
 I'm about to finish my Bachelor's Degree from Tecnológico de Monterrey 🇲🇽 in Computer Science and Technology 💻.
 
+I'm currently working at **[DABI](https://www.dabi.io)** as a Mobile Developer 📱 using React Native ⚛️.
+
+I'm also into iOS Development using Swift and Front-End Development using React.js ⚛️.
+
+Non-technical fun facts are:
+- Movie Lover 🎬
+- Gamer 🎮
+- Travel enthusiast ✈️ 
+- Love festivals and concerts 🎸
+
 <!--
 **rigovm101/rigovm101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
