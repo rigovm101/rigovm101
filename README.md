@@ -2,9 +2,9 @@
 
 My name is **Rigo Valadez**, I'm a Software Engineer from Mexico 🇲🇽.
 
-I finished my Master's Degree from the University of Essex 🇬🇧 in Artificial Intelligence 🧠.
+Completed my Master's Degree from the University of Essex 🇬🇧 in Artificial Intelligence 🧠.
 
-I'm about to finish my Bachelor's Degree from Tecnológico de Monterrey 🇲🇽 in Computer Science and Technology 💻.
+Completed my Bachelor's Degree from Tecnológico de Monterrey 🇲🇽 in Computer Science and Technology 💻.
 
 I'm currently working at **[DABI](https://www.dabi.io)** as a Mobile Developer 📱 using React Native ⚛️.
 
