@@ -6,9 +6,7 @@ Completed my Master's Degree from the University of Essex 🇬🇧 in Artificial
 
 Completed my Bachelor's Degree from Tecnológico de Monterrey 🇲🇽 in Computer Science and Technology 💻.
 
-I'm currently working at **[DABI](https://www.dabi.io)** as a Mobile Developer 📱 using React Native ⚛️.
-
-I'm also into iOS Development using Swift and Front-End Development using React.js ⚛️.
+I'm currently working at **[Amazon](https://www.amazon.com/)** as a SDE 🖥️.
 
 Non-technical fun facts are:
 - Movie Lover 🎬
